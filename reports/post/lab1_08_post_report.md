@@ -78,4 +78,4 @@
 
 ## 제출 링크
 
-소스 커밋: https://github.com/dhawldnjs010-star/lab1_08_encoder_8x3/commit/5312d4073f0199f3e0bd1496af668f14866c16b4 / 실험 전 레포트: `reports/pre/lab1_08_pre_report.md` / 로그·VCD: `evidence/simulation.txt`, `evidence/wave.vcd`, `evidence/vivado/` / bit·해시: 위 3절 (SHA-256 `092aac970efe423df039231477c6658234a6feeebd14dcf58bcfb32870853191`) / 영상: https://drive.google.com/drive/folders/1JNnh6GCEUiCxGpQ1i39_2UGO5GHM1wfQ (`20260914_173109.mp4`) / GitHub에서 링크 확인한 날짜: ______
+소스 커밋: https://github.com/dhawldnjs010-star/lab1_08_encoder_8x3/commit/5312d4073f0199f3e0bd1496af668f14866c16b4 / 실험 전 레포트: `reports/pre/lab1_08_pre_report.md` / 로그·VCD: `evidence/simulation.txt`, `evidence/wave.vcd`, `evidence/vivado/` / bit·해시: 위 3절 (SHA-256 `092aac970efe423df039231477c6658234a6feeebd14dcf58bcfb32870853191`) / 영상: https://drive.google.com/drive/folders/1JNnh6GCEUiCxGpQ1i39_2UGO5GHM1wfQ (`20260914_173109.mp4`) / GitHub에서 링크 확인한 날짜: 2026-09-20
